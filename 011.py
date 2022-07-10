@@ -1,0 +1,1 @@
+#Faça um programa que leia a largura e a altura de uma parede em metros, clacule a sua área e a quantidade de  tinta necessário para pintá-la, sabendo que a cadqa litro de tinta, pinta uma área de 2m quadrados
