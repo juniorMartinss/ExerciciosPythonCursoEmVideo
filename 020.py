@@ -14,7 +14,8 @@ seqApres = sorted(lista)
 
 print('Os partcipantes para apresentação dos trabalhos são: {}, {}, {}, {}.\nA sequência de apresentação é {}'.format(nome1, nome2, nome3, nome4, lista))'''
 
-print ('#' * 50)
+print('*' * 51)
+
 #maneira que o professor fez
 
 n1 = input('Digite o nome do 1° aluno(a): ')
@@ -26,3 +27,5 @@ lis = [n1, n2, n3, n4]
 shuffle(lis)
 
 print('A sequêcia de apresentação é: {}(Maneira que o professor fez)'.format(lis))
+
+print('*' * 51)

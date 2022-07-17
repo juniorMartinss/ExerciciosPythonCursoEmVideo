@@ -7,7 +7,7 @@ n = float(input('Digite um número com ponto: '))
 r = math.floor(n)
 print('O número digitado foi {} e a porção inteira é {}'.format(n, r))
 
-print('*' * 50)
+print('*' * 51)
 
 '''#formas que o prof. realizou
 

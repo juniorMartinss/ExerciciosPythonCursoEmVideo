@@ -14,14 +14,14 @@ hip1 = math.sqrt(hip)
 
 print('O valor do cateto oposto é {}, do cateto adjacente é {} e o valor da hipotenusa é {:.2f}'.format(co, ca, hip1))
 
-print('#' * 50)
+print('#' * 51)
 
 #Formula encontrada na internet
 
 hipot = (co ** 2 + ca ** 2) ** (1/2)
 print('O valor do cateto oposto é {}, do cateto adjacente é {} e o valor da hipotenusa é {:.2f}.(usando formula internet)'.format(co, ca, hipot))
 
-print('#' * 50)
+print('#' * 51)
 
 #formula realiza pelo prof°
 
